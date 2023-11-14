@@ -25,3 +25,8 @@ function hello() {
 }
 
 ```
+
+## Languages
+- Belarusian (native)
+- Rusian (native)
+- English (A2)
