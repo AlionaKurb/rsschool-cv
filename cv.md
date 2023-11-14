@@ -6,3 +6,12 @@ I'm from Belarus, 34 y old, and trying to pass this course first time. So I'm a 
 
 1. e-mail: alionavvvvv@gmail.com
 2. discord: alenakurbatskaya
+
+## Skills
+- basic JS, HTML, CSS, Markdown
+- GIT
+
+## Education
+- Bealrusian National Technical University
+- FreeCodeCamp course (in process)
+- RSSchool JS/FE course (in process)
