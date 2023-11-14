@@ -15,3 +15,13 @@ I'm from Belarus, 34 y old, and trying to pass this course first time. So I'm a 
 - Bealrusian National Technical University
 - FreeCodeCamp course (in process)
 - RSSchool JS/FE course (in process)
+
+## Code example
+```javascript
+//Hello World function
+
+function hello() {
+    return 'Hello World!'
+}
+
+```
